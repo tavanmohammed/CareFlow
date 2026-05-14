@@ -333,6 +333,20 @@ Statuses:
 - Pending
 - Approved
 - Rejected
+- 
+<img width="1904" height="897" alt="Screenshot 2026-05-14 000441" src="https://github.com/user-attachments/assets/62142397-f5f7-4c1b-b018-58382108e640" />
+<img width="1771" height="918" alt="Screenshot 2026-05-14 000659" src="https://github.com/user-attachments/assets/2477ef66-7f39-4d6c-b2d9-beca49e0c473" />
+<img width="1663" height="894" alt="Screenshot 2026-05-14 000722" src="https://github.com/user-attachments/assets/1c996c09-3bf1-4a9e-b5ef-29dee22980fa" />
+<img width="1652" height="859" alt="Screenshot 2026-05-14 000430" src="https://github.com/user-attachments/assets/a4189b09-1897-42d7-8c9e-9e00f5cc298c" />
+<img width="1893" height="883" alt="Screenshot 2026-05-14 000358" src="https://github.com/user-attachments/assets/6b350c68-7793-42f1-b81d-8f1e95c9eef4" />
+<img width="1871" height="882" alt="Screenshot 2026-05-14 000406" src="https://github.com/user-attachments/assets/8e95a65b-ab94-4b1e-bbdf-8aaf250d87cc" />
+<img width="1771" height="918" alt="Screenshot 2026-05-14 000659" src="https://github.com/user-attachments/assets/0b0dd684-310f-42ab-b7ec-20c5fef6871c" />
+
+
+
+
+
+
 
 ---
 
@@ -352,9 +366,6 @@ careflow/
     ├── services/
     ├── repositories/
     ├── models/
-
-
-
 
 
 
