@@ -353,9 +353,6 @@ careflow/
     ├── repositories/
     ├── models/
 
-<img width="1904" height="897" alt="Screenshot 2026-05-14 000441" src="https://github.com/user-attachments/assets/ee3cdf49-5b84-4f4e-ac67-2595e417fb7c" />
-
-<img width="1771" height="918" alt="Screenshot 2026-05-14 000659" src="https://github.com/user-attachments/assets/bbc1fc9c-cf87-476a-b908-f8cfb843e12c" />
 
 
 
