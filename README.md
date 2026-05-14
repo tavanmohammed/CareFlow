@@ -353,11 +353,12 @@ careflow/
     ├── repositories/
     ├── models/
 
-<img width="1771" height="918" alt="Screenshot 2026-05-14 000659" src="https://github.com/user-attachments/assets/2161a277-a831-4dcd-ac44-e2cc666a3cf1" />
-<img width="1663" height="894" alt="Screenshot 2026-05-14 000722" src="https://github.com/user-attachments/assets/aadf0fa6-220f-4c5d-9bab-b8f4f0669a38" />
-<img width="1893" height="883" alt="Screenshot 2026-05-14 000358" src="https://github.com/user-attachments/assets/a66dc126-4506-44d3-8d24-7601bcb1a0d2" />
-<img width="1893" height="883" alt="Screenshot 2026-05-14 000358" src="https://github.com/user-attachments/assets/f5ee9764-969e-4a49-8478-3f369d973899" />
-<img width="1871" height="882" alt="Screenshot 2026-05-14 000406" src="https://github.com/user-attachments/assets/9129a666-4b63-4ef5-92b3-aac11711779a" />
+<img width="1904" height="897" alt="Screenshot 2026-05-14 000441" src="https://github.com/user-attachments/assets/ee3cdf49-5b84-4f4e-ac67-2595e417fb7c" />
+
+<img width="1771" height="918" alt="Screenshot 2026-05-14 000659" src="https://github.com/user-attachments/assets/bbc1fc9c-cf87-476a-b908-f8cfb843e12c" />
+
+
+
 
 
 
